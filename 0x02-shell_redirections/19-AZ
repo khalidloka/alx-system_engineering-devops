@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [Aa] [Zz] < input.txt
+tr "A" "Z" | tr "c" "e"
