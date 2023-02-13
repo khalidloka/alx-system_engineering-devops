@@ -1,2 +1,2 @@
 #!/bin/bash
-tr [Aa] [Zz] < input.txt > output.txt
+tr [Aa] [Zz] < input.txt
